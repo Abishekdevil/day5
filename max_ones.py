@@ -1,4 +1,4 @@
-# Take input from user
+
 nums = list(map(int, input().split()))
 
 max_count = 0
